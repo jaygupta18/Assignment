@@ -1,0 +1,1 @@
+i have not sufficient time to make this website to responsive , so i am deploying it non-responsive .It is olny for laptops 
